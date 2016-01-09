@@ -8,6 +8,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="KDateTimeViewController">
             <connections>
+                <outlet property="mTableView" destination="1lW-Za-QtV" id="sma-FS-JMG"/>
                 <outlet property="view" destination="iN0-l3-epB" id="iOD-JE-f9j"/>
             </connections>
         </placeholder>

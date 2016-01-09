@@ -10,4 +10,6 @@
 
 @interface KDateTimeViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UITableView *mTableView;
+
 @end
